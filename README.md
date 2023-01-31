@@ -4,7 +4,7 @@ A social media web applicaiton that generates AI images using openai.
 
 ## Link to Live Site
 
-https://photoverse-app.netlify.app/
+https://dalle-v2.netlify.app/
 
 ## Objectives
 
